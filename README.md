@@ -21,6 +21,3 @@ The dataset contains 2,000 records and 10 columns. It covers a wide range of pro
 
 ## Data Preprocessing and Exploration
 The dataset has been cleaned and preprocessed, with null values handled, outliers detected and removed, and categorical variables encoded for analysis. Visualizations, such as histograms and box plots, have been used to explore the distribution of features like area, bedrooms, and price.
-
-## Modeling and Evaluation
-In this project, various machine learning models such as linear regression, decision trees, and random forests were applied to predict house prices. The models were evaluated using metrics like Mean Absolute Error (MAE) and R-squared to assess their accuracy.
